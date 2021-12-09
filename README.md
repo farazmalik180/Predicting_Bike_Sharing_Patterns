@@ -9,7 +9,7 @@ The goal of this project is to understand what happens behind the neural network
 before diving deeper into other tools like PyTorch.
 
 ## Results
-The project meets the specifications, which are:
+The project meets the specifications, which are  :
 
 * All the code in the notebook runs in Python 3 without failing, and all unit tests pass.
 * The sigmoid activation function is implemented correctly.
